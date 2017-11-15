@@ -1,0 +1,6 @@
+# for mac os
+.DS_Store
+._*
+
+# for vim
+.*.sw?
